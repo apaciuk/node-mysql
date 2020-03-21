@@ -1,0 +1,16 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "Node MySQL App Basic CRUD",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Paul Anthony McGowan (http://www.xhostcom.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.2"
+  }
+}
